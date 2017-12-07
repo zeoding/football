@@ -6,6 +6,7 @@ vue仿足球帝移动官网，喜欢的各位童鞋欢迎star一下
 后端数据采用http代理的方式获取网站api,解决数据跨域的问题
 
 ### 主要开发所用到的技术栈:
+----
 1. [vue2.0](https://cn.vuejs.org/)
 2. [axios](https://github.com/axios/axios)
 3. [vue-router](https://router.vuejs.org/)
@@ -17,7 +18,7 @@ vue仿足球帝移动官网，喜欢的各位童鞋欢迎star一下
 
 
 ### 运行和构建
-
+----
 ``` bash
  //克隆获取项目代码
  git clone https://github.com/zeoding/football.git
@@ -36,7 +37,7 @@ vue仿足球帝移动官网，喜欢的各位童鞋欢迎star一下
 ```
 
 ### 实现功能 
-
+----
 - [x] - [资讯列表] 
 - [x] - [比赛列表] 
 - [x] - [视频列表] 
@@ -46,6 +47,7 @@ vue仿足球帝移动官网，喜欢的各位童鞋欢迎star一下
 
 
 ### 项目效果
+----
 ![Markdown](http://i2.bvimg.com/523028/aeaa50bc6bb078a0.png)
 
 资讯列表
