@@ -7,6 +7,7 @@ vue仿足球帝移动官网，喜欢的各位童鞋欢迎star一下
 
 ### 主要开发所用到的技术栈:
 ----
+
 1. [vue2.0](https://cn.vuejs.org/)
 2. [axios](https://github.com/axios/axios)
 3. [vue-router](https://router.vuejs.org/)
@@ -15,6 +16,10 @@ vue仿足球帝移动官网，喜欢的各位童鞋欢迎star一下
 5. [less](http://www.bootcss.com/p/lesscss/)
 6. [lazyload](https://note.youdao.com/)
 7. [better-scroll](https://github.com/ustbhuangyi/better-scroll)
+
+### 在线演示
+---
+[立即预览](https://zeoding.github.io/views/#/)
 
 
 ### 运行和构建
